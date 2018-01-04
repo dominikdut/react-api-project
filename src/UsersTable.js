@@ -7,8 +7,6 @@ const UsersTable = () => (
       <Table.Row>
         <Table.HeaderCell>Name</Table.HeaderCell>
         <Table.HeaderCell>Correct Guesses</Table.HeaderCell>
-        <Table.HeaderCell>Correct Guesses</Table.HeaderCell>
-        <Table.HeaderCell>Correct Guesses</Table.HeaderCell>
       </Table.Row>
     </Table.Header>
 
